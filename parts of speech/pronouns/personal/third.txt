@@ -1,0 +1,9 @@
+she
+her
+him
+it
+he
+
+# plural
+they
+them
